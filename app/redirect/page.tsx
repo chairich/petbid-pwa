@@ -1,12 +1,11 @@
-// app/redirect/page.tsx
-'use client';
+'use client'
 
-import { useEffect } from 'react';
+import { useEffect } from 'react'
 
 export default function RedirectPage() {
   useEffect(() => {
-    window.location.href = 'https://www.petbidthai.com';
-  }, []);
+    window.location.href = 'https://petbidthai.com'
+  }, [])
 
-  return <p>กำลังเปลี่ยนเส้นทางไปยังเว็บไซต์หลัก...</p>;
+  return <p>กำลังพาไปยังเว็บไซต์หลัก...</p>
 }
