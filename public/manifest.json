@@ -1,21 +1,20 @@
 {
-  "name": "PetBidThai",
+  "name": "PetBid Thai",
   "short_name": "PetBid",
-  "description": "ระบบประมูลสัตว์เลี้ยงออนไลน์",
-  "start_url": "https://www.petbidthai.com",
+  "start_url": "https://www.petbidthai.com/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#003399",
+  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "/icons/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
