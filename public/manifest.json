@@ -1,10 +1,10 @@
 {
-  "name": "PetBid Thai",
+  "name": "PetBidThai",
   "short_name": "PetBid",
   "start_url": "https://www.petbidthai.com/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#003399",
   "icons": [
     {
       "src": "/icons/icon-192x192.png",
