@@ -1,7 +1,7 @@
 {
   "name": "PetBid Thai",
   "short_name": "PetBid",
-  "start_url": "/redirect",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#003399",
