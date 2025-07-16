@@ -17,14 +17,8 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="th">
-      <head>
-        {/* จำเป็นต้องใส่ด้วยตัวเอง */}
-        <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-color" content="#003399" />
-        <link rel="apple-touch-icon" href="/icons/icon-192x192.png" />
-      </head>
+      <head />
       <body>{children}</body>
     </html>
   )
 }
-
